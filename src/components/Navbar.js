@@ -7,7 +7,6 @@ export default class Navbar extends Component {
                 <button type="button" className="btn btn-outline-primary btn-rounded waves-effect">Login</button>
                 <nav className="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: "#47a3da" }}>
                     <ul className="navbar-nav mr-auto">
-                <button type="button" className="btn btn-outline-primary btn-rounded waves-effect">Login</button>
                         <li className="nav-item active">
                             <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
                         </li>

@@ -1,6 +1,9 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import {connect} from 'react-redux';
+import {createEmail} from '../../actions/postActions';
+import NextMonth from '../NextMonth';
 
-export default class Home extends Component {
+class Home extends Component {
     state = {
         email: '',
         ex:''
@@ -10,13 +13,15 @@ export default class Home extends Component {
     event.preventDefault();
     console.log(this.state.email) 
     console.log(this.state.ex)   
+    this.props.createEmail(this.state.email)   
     }
 
     handleChange = ({target}) => {
       this.setState({
           [target.name]: target.value
       })
-      
+    //call action dispatch to reducer 
+         
     }
 
     render() {
@@ -36,6 +41,9 @@ export default class Home extends Component {
                     <button type="submit" 
                     >Submit</button>
                 </form>
+
+                <br/>
+                <NextMonth/>
             
             </div>
 
@@ -45,3 +53,4 @@ export default class Home extends Component {
 }
 
 
+export default connect(null, {createEmail})(Home )
