@@ -20,8 +20,7 @@ class Home extends Component {
       this.setState({
           [target.name]: target.value
       })
-    //call action dispatch to reducer 
-         
+    //call action dispatch to reducer  
     }
 
     render() {

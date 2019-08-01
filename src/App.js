@@ -9,6 +9,7 @@ import Header from './components/Header';
 import Navbar from './components/Navbar';
 import NextMonth from './components/NextMonth'
 import Home from './components/views/home';
+import CurrentMonth from './components/views/currentMonth';
 
 
 
@@ -24,6 +25,7 @@ class App extends Component {
               <Switch>
                 <Route path="/" exact component={Home} />
                 <Route path="/nextMonth" component={NextMonth} />
+                <Route path="/currentMonth" component={CurrentMonth} />
               </Switch>
             </Fragment>
 
