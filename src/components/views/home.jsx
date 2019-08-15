@@ -1,7 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import {connect} from 'react-redux';
 import {createEmail} from '../../actions/postActions';
 import NextMonth from '../NextMonth';
+import piggyBank from '../../images/HomePage Graphic.svg'
+import scroll from '../../images/scroll.svg'
+import BlueContainer from '../BlueContainer';
 
 class Home extends Component {
     state = {
@@ -28,23 +31,44 @@ class Home extends Component {
         const {email,ex} = this.state;
 
         return (
-            <div>
-                <h1>This is the Home page </h1>
-            
-                <form onSubmit={this.handleSubmit}>
-                    <input type="email" 
-                    value={email}
-                    onChange = {this.handleChange}
-                    name="email" id="" 
-                    />
-                    <button type="submit" 
-                    >Submit</button>
-                </form>
 
-                <br/>
-                <NextMonth/>
+            <Fragment>
+                <div className="container">
+ <img src={piggyBank} alt = "piggyBank graphic" className="piggyBank"></img>
+
+                <h1> Budget Planning for the Modern Era</h1>
+
+                <p className = "subhead">Enjoy the Most Intuitive App!</p>
             
-            </div>
+                <img src={scroll} className = "scroll hide-mobile show-desktop"  alt="scroll down"></img>
+
+
+                </div>
+                           
+            <BlueContainer/>
+            </Fragment>
+
+            
+
+
+
+            // <div>
+            //     <h1>This is the Home page </h1>
+            
+            //     <form onSubmit={this.handleSubmit}>
+            //         <input type="email" 
+            //         value={email}
+            //         onChange = {this.handleChange}
+            //         name="email" id="" 
+            //         />
+            //         <button type="submit" 
+            //         >Submit</button>
+            //     </form>
+
+            //     <br/>
+            //     <NextMonth/>
+            
+            // </div>
 
             
         )

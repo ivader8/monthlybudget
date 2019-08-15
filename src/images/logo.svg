@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="60.388" viewBox="0 0 124 60.388">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="124" height="60.388" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_1_1" data-name="Component 1 – 1" clip-path="url(#clip-path)">
+    <text id="yBudget" transform="translate(1 11.388)" fill="#707070" font-size="23" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="22">yBudget</tspan></text>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="matrix(0.695, 0.719, -0.719, 0.695, 120.012, 7.55)" fill="#59ebaf" stroke="#707070" stroke-width="1">
+      <rect width="5.741" height="16.008" rx="2.871" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4.741" height="15.008" rx="2.371" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="matrix(0.695, 0.719, -0.719, 0.695, 118.017, 0)" fill="#59a7eb" stroke="#707070" stroke-width="1">
+      <rect width="5.741" height="16.008" rx="2.871" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4.741" height="15.008" rx="2.371" fill="none"/>
+    </g>
+  </g>
+</svg>

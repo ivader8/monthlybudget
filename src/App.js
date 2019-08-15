@@ -18,7 +18,8 @@ class App extends Component {
 
     return (
       <Provider store={store}>
-        <div className="App">
+        
+        {/* TODO make sure about container classnames */}
           <BrowserRouter>
             <Fragment>
               <Navbar></Navbar>
@@ -30,7 +31,6 @@ class App extends Component {
             </Fragment>
 
           </BrowserRouter>
-        </div>
       </Provider>
     )
   }

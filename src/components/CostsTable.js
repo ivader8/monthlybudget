@@ -20,6 +20,7 @@ class CostsTable extends Component {
   
   
         <button type="button" onClick={this.props.onRowAdd} className="btn btn-success pull-right">Add Cost</button>
+        {/* <button type="button" className="btn btn-success pull-right">Reset Table</button> */}
           <table className="table table-bordered">
             <thead>
               <tr>

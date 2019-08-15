@@ -1,30 +1,32 @@
 import React, { Component } from 'react'
+import logo from '../images/logo.svg'
+import ham from '../images/ham.svg'
+import exit from '../images/exit.svg'
 
 export default class Navbar extends Component {
     render() {
         return (
-            <div className="navigationBar" align="right">
-                <button type="button" className="btn btn-outline-primary btn-rounded waves-effect">Login</button>
-                <nav className="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: "#47a3da" }}>
-                    <ul className="navbar-nav mr-auto">
-                        <li className="nav-item active">
-                            <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="currentMonth">Current Month</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="nextMonth">Next Month</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#">Last Month</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#">About</a>
-                        </li>
-                    </ul>
-                </nav>
+            <div className="container">
+                <header>
+                    <img src={logo} alt="yBudget logo" className="logo" />
+                    <nav>
+                        <a href="#" className="hide-desktop">
+                            <img src={ham} alt="toggle menu" className="menu" id="menu" />
+                        </a>
+
+                        <ul className="show-desktop hide-desktop" id="nav">
+                            <li id="exit" class="exit-btn hide-desktop">
+                                <img src={exit} alt = "exit menu"></img></li>
+                            <li><a href="#">contact</a></li>
+                            <li><a href="#">home</a></li>
+                            <li><a href="#">services</a></li>
+                        <li><a href="#">about</a></li>
+
+                        </ul>
+                    </nav>
+                </header>
             </div>
+
         )
     }
 }

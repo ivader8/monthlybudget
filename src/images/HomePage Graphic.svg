@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="930.477" height="622.746" viewBox="0 0 930.477 622.746">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.091" y1="-0.14" x2="-0.958" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="17.019" height="194.274" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="17" height="194.24" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="19.032" height="183.969" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="139.13" height="146.507" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect width="41.015" height="41.015" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="HomePage_Graphic" data-name="HomePage Graphic" transform="translate(-393.069 -240.292)">
+    <path id="Path_23" data-name="Path 23" d="M1009,992.264v170.749h242.546V992.264Z" transform="translate(-141 -300)" opacity="0.42" fill="url(#linear-gradient)"/>
+    <path id="Path_3" data-name="Path 3" d="M488.086,523.48l-2.065,267.795L711.181,924V653.757Z" transform="translate(156.576 -60.963)" fill="#59a7eb"/>
+    <path id="Path_1" data-name="Path 1" d="M0,0,251.72,63.205l62.5,254.579L64.957,252.09Z" transform="translate(644.554 462.476) rotate(-45)" fill="#81c1f9"/>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(697.457 549.371)" clip-path="url(#clip-path)">
+      <g transform="translate(-314.457 -481.371)">
+        <path id="Path_5" data-name="Path 5" d="M486.177,523.48l-.156,20.242,17.019,10.032V533.327Z" transform="translate(-171.564 -42.109)" fill="#d1e7fb"/>
+      </g>
+      <g transform="translate(-314.457 -442.371)">
+        <path id="Path_5-2" data-name="Path 5" d="M486.177,523.48l-.156,20.242,17.019,10.032V533.327Z" transform="translate(-171.564 -42.109)" fill="#d1e7fb"/>
+      </g>
+      <g transform="translate(-314.457 -403.371)">
+        <path id="Path_5-3" data-name="Path 5" d="M486.177,523.48l-.156,20.242,17.019,10.032V533.327Z" transform="translate(-171.564 -42.109)" fill="#d1e7fb"/>
+      </g>
+      <g transform="translate(-314.457 -364.371)">
+        <path id="Path_5-4" data-name="Path 5" d="M486.177,523.48l-.156,20.242,17.019,10.032V533.327Z" transform="translate(-171.564 -42.109)" fill="#d1e7fb"/>
+      </g>
+      <g transform="translate(-314.457 -325.371)">
+        <path id="Path_5-5" data-name="Path 5" d="M486.177,523.48l-.156,20.242,17.019,10.032V533.327Z" transform="translate(-171.564 -42.109)" fill="#d1e7fb"/>
+      </g>
+    </g>
+    <path id="Path_4" data-name="Path 4" d="M709.709,524.883V790.525L486.021,922.883V653.39Z" transform="translate(381.737 -59.844)" fill="#007ae4"/>
+    <g id="Repeat_Grid_6" data-name="Repeat Grid 6" transform="translate(932.457 594.388)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-590.457 -556.388)">
+        <path id="Path_5-6" data-name="Path 5" d="M502.865,523.48l.156,20.219-17,10.021v-20.4Z" transform="translate(104.436 32.908)" fill="#d1e7fb"/>
+      </g>
+      <g transform="translate(-590.457 -517.388)">
+        <path id="Path_5-7" data-name="Path 5" d="M502.865,523.48l.156,20.219-17,10.021v-20.4Z" transform="translate(104.436 32.908)" fill="#d1e7fb"/>
+      </g>
+      <g transform="translate(-590.457 -478.388)">
+        <path id="Path_5-8" data-name="Path 5" d="M502.865,523.48l.156,20.219-17,10.021v-20.4Z" transform="translate(104.436 32.908)" fill="#d1e7fb"/>
+      </g>
+      <g transform="translate(-590.457 -439.388)">
+        <path id="Path_5-9" data-name="Path 5" d="M502.865,523.48l.156,20.219-17,10.021v-20.4Z" transform="translate(104.436 32.908)" fill="#d1e7fb"/>
+      </g>
+      <g transform="translate(-590.457 -400.388)">
+        <path id="Path_5-10" data-name="Path 5" d="M502.865,523.48l.156,20.219-17,10.021v-20.4Z" transform="translate(104.436 32.908)" fill="#d1e7fb"/>
+      </g>
+    </g>
+    <path id="Path_5-11" data-name="Path 5" d="M486.177,523.48l-.156,20.242,96.5,55.914V579.209Z" transform="translate(244.436 42.891)" fill="#007ae4"/>
+    <path id="Path_5-12" data-name="Path 5" d="M486.177,523.48l-.156,20.242,96.5,55.914V579.209Z" transform="translate(244.436 82.891)" fill="#007ae4"/>
+    <path id="Path_11" data-name="Path 11" d="M582.864,523.48l.157,20.242-97,55.914V579.209Z" transform="translate(479.436 6.891)" fill="#81c1f9"/>
+    <path id="Path_5-13" data-name="Path 5" d="M486.177,523.48l-.156,20.242,96.5,55.914V579.209Z" transform="translate(244.436 122.163)" fill="#007ae4"/>
+    <path id="Path_10" data-name="Path 10" d="M582.864,523.48l.157,20.242-97,55.914V579.209Z" transform="translate(479.436 48.163)" fill="#81c1f9"/>
+    <path id="Path_5-14" data-name="Path 5" d="M486.177,523.48l-.156,20.242,96.5,55.914V579.209Z" transform="translate(244.436 161.434)" fill="#007ae4"/>
+    <path id="Path_9" data-name="Path 9" d="M582.864,523.48l.157,20.242-97,55.914V579.209Z" transform="translate(479.436 89.434)" fill="#81c1f9"/>
+    <path id="Path_5-15" data-name="Path 5" d="M486.177,523.48l-.156,20.242,96.5,55.914V579.209Z" transform="translate(244.436 200.706)" fill="#007ae4"/>
+    <path id="Path_8" data-name="Path 8" d="M582.864,523.48l.157,20.242-97,55.914V579.209Z" transform="translate(479.436 128.706)" fill="#81c1f9"/>
+    <path id="Path_5-16" data-name="Path 5" d="M486.021,543.722l96.5,55.914Z" transform="translate(244.436 237.977)" fill="#007ae4"/>
+    <path id="Path_7" data-name="Path 7" d="M582.864,523.48l.157,20.242-97,55.914V579.209Z" transform="translate(479.436 165.977)" fill="#81c1f9"/>
+    <path id="Path_5-17" data-name="Path 5" d="M503.04,553.755v0Z" transform="translate(208.436 33.891)" fill="#d1e7fb"/>
+    <path id="Path_6" data-name="Path 6" d="M555.476,584.273" transform="translate(156 -56)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(348 198)">
+      <line id="Line_1" data-name="Line 1" y2="19.089" transform="translate(322.928 504.411)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      <line id="Line_2" data-name="Line 2" x1="20.857" transform="translate(312.5 513.955)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+    </g>
+    <g id="Group_1-2" data-name="Group 1" transform="translate(348 38)">
+      <line id="Line_1-2" data-name="Line 1" y2="19.089" transform="translate(322.928 504.411)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      <line id="Line_2-2" data-name="Line 2" x1="20.857" transform="translate(312.5 513.955)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+    </g>
+    <g id="Group_1-3" data-name="Group 1" transform="translate(348 78)">
+      <line id="Line_1-3" data-name="Line 1" y2="19.089" transform="translate(322.928 504.411)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      <line id="Line_2-3" data-name="Line 2" x1="20.857" transform="translate(312.5 513.955)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+    </g>
+    <g id="Group_1-4" data-name="Group 1" transform="translate(348 118)">
+      <line id="Line_1-4" data-name="Line 1" y2="19.089" transform="translate(322.928 504.411)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      <line id="Line_2-4" data-name="Line 2" x1="20.857" transform="translate(312.5 513.955)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+    </g>
+    <g id="Group_1-5" data-name="Group 1" transform="translate(348 158)">
+      <line id="Line_1-5" data-name="Line 1" y2="19.089" transform="translate(322.928 504.411)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      <line id="Line_2-5" data-name="Line 2" x1="20.857" transform="translate(312.5 513.955)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+    </g>
+    <g id="Group_1-6" data-name="Group 1" transform="translate(345 216)">
+      <path id="Path_18" data-name="Path 18" d="M0,19.089" transform="translate(322.928 504.411)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+    </g>
+    <g id="Repeat_Grid_7" data-name="Repeat Grid 7" transform="translate(897.412 617.018)" clip-path="url(#clip-path-3)">
+      <g id="Group_4" data-name="Group 4" transform="translate(-597.412 -572.018)">
+        <path id="Path_19" data-name="Path 19" d="M0,0V19.089" transform="translate(598.662 583.728) rotate(-120)" fill="none" stroke="#ff3e45" stroke-width="5"/>
+        <path id="Path_17" data-name="Path 17" d="M0,0" transform="translate(612.143 587.987) rotate(-120)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      </g>
+      <g id="Group_4-2" data-name="Group 4" transform="translate(-597.412 -533.018)">
+        <path id="Path_19-2" data-name="Path 19" d="M0,0V19.089" transform="translate(598.662 583.728) rotate(-120)" fill="none" stroke="#ff3e45" stroke-width="5"/>
+        <path id="Path_17-2" data-name="Path 17" d="M0,0" transform="translate(612.143 587.987) rotate(-120)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      </g>
+      <g id="Group_4-3" data-name="Group 4" transform="translate(-597.412 -494.018)">
+        <path id="Path_19-3" data-name="Path 19" d="M0,0V19.089" transform="translate(598.662 583.728) rotate(-120)" fill="none" stroke="#ff3e45" stroke-width="5"/>
+        <path id="Path_17-3" data-name="Path 17" d="M0,0" transform="translate(612.143 587.987) rotate(-120)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      </g>
+      <g id="Group_4-4" data-name="Group 4" transform="translate(-597.412 -455.018)">
+        <path id="Path_19-4" data-name="Path 19" d="M0,0V19.089" transform="translate(598.662 583.728) rotate(-120)" fill="none" stroke="#ff3e45" stroke-width="5"/>
+        <path id="Path_17-4" data-name="Path 17" d="M0,0" transform="translate(612.143 587.987) rotate(-120)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      </g>
+      <g id="Group_4-5" data-name="Group 4" transform="translate(-597.412 -416.018)">
+        <path id="Path_19-5" data-name="Path 19" d="M0,0V19.089" transform="translate(598.662 583.728) rotate(-120)" fill="none" stroke="#ff3e45" stroke-width="5"/>
+        <path id="Path_17-5" data-name="Path 17" d="M0,0" transform="translate(612.143 587.987) rotate(-120)" fill="none" stroke="#59ebaf" stroke-width="5"/>
+      </g>
+    </g>
+    <g id="Component_2_1" data-name="Component 2 – 1" transform="translate(792.87 374.493)" clip-path="url(#clip-path-4)">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="16" cy="16" r="16" transform="matrix(0.978, -0.208, 0.208, 0.978, 47.153, 27.184)" fill="#59ebaf"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="12" cy="12" r="12" transform="matrix(0.978, -0.208, 0.208, 0.978, 51.897, 30.265)" fill="#04ac67"/>
+      <text id="_" data-name="$" transform="matrix(0.978, -0.208, 0.208, 0.978, 59.16, 30.765)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="60.5" cy="40.5" rx="60.5" ry="40.5" transform="translate(15.13 53.507)" fill="#f5ee94"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="17" height="28" transform="translate(122.13 82.507)" fill="#f5ee94"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="24" height="23" transform="translate(37.13 123.507)" fill="#f5ee94"/>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(118.13 77.507)" fill="#2e2e2e" stroke="#707070" stroke-width="1">
+        <ellipse cx="2" cy="4.5" rx="2" ry="4.5" stroke="none"/>
+        <ellipse cx="2" cy="4.5" rx="1.5" ry="4" fill="none"/>
+      </g>
+      <path id="Path_20" data-name="Path 20" d="M942,1088.953l4.2-10.028-17.7,5.309" transform="translate(-828.87 -1026.493)" fill="#f5ee94"/>
+      <path id="Path_21" data-name="Path 21" d="M844,1120.5s-5.791-.33-7.722-2.3.53-4.131,2.685-4.131,2.685,3.1,2.685,3.1-1.2,4.462-5.37,3.328-5.99-6.426-5.99-6.426" transform="translate(-828.87 -1026.493)" fill="none" stroke="#f5ee94" stroke-width="3"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="24" height="23" transform="translate(89.13 123.507)" fill="#f5ee94"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="16" cy="16" r="16" transform="translate(66.13 39.507)" fill="#59ebaf"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="16" cy="16" r="16" transform="translate(87.567 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="12" cy="12" r="12" transform="translate(70.13 43.507)" fill="#04ac67"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="12" cy="12" r="12" transform="translate(89.958 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_2" data-name="$" transform="translate(77.13 45.507)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+      <text id="_3" data-name="$" transform="translate(95.852 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="36" height="20" transform="translate(61.13 62.507)" fill="#f5ee94"/>
+    </g>
+    <line id="Line_3" data-name="Line 3" y1="44" x2="223" transform="translate(399.5 655.5)" fill="none" stroke="#59ebaf" stroke-width="4" stroke-dasharray="5 15"/>
+    <line id="Line_6" data-name="Line 6" x1="214.138" y1="44" transform="translate(1102.931 660.5)" fill="none" stroke="#ff3e45" stroke-width="4" stroke-dasharray="5 15"/>
+    <line id="Line_4" data-name="Line 4" y1="5" x2="223" transform="translate(399.5 616.5)" fill="none" stroke="#59ebaf" stroke-width="4" stroke-dasharray="5 15"/>
+    <line id="Line_7" data-name="Line 7" x1="214.138" y1="5" transform="translate(1102.931 621.5)" fill="none" stroke="#ff3e45" stroke-width="4" stroke-dasharray="5 15"/>
+    <line id="Line_5" data-name="Line 5" x2="223" y2="40" transform="translate(399.5 531.5)" fill="none" stroke="#59ebaf" stroke-width="4" stroke-dasharray="5 15"/>
+    <line id="Line_8" data-name="Line 8" x1="214.138" y2="40" transform="translate(1102.931 536.5)" fill="none" stroke="#ff3e45" stroke-width="4" stroke-dasharray="5 15"/>
+    <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(401.493 518.493)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_4" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_24" data-name="Component 3 – 24" transform="translate(1274.061 523.493)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_5" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_7" data-name="Component 3 – 7" transform="translate(393.069 690.977) rotate(-41)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-3" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-3" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_6" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_25" data-name="Component 3 – 25" transform="translate(1296.638 727.977) rotate(-139)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-4" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-4" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_7" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_8" data-name="Component 3 – 8" transform="translate(479.069 674.977) rotate(-41)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-5" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-5" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_8" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_19" data-name="Component 3 – 19" transform="translate(1208.298 710.977) rotate(-139)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-6" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-6" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_9" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_9" data-name="Component 3 – 9" transform="translate(569.069 657.977) rotate(-41)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-7" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-7" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_10" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_18" data-name="Component 3 – 18" transform="translate(1141.5 694.977) rotate(-139)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-8" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-8" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_11" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_4" data-name="Component 3 – 4" transform="translate(427.393 608.384) rotate(-17)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-9" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-9" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_12" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_23" data-name="Component 3 – 23" transform="translate(1270.962 647.384) rotate(-163)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-10" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-10" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_13" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_5" data-name="Component 3 – 5" transform="translate(523.393 604.384) rotate(-17)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-11" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-11" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_14" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_20" data-name="Component 3 – 20" transform="translate(1188.012 647.384) rotate(-163)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-12" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-12" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_15" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_2" data-name="Component 3 – 2" transform="translate(487.493 529.493)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-13" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-13" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_16" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_22" data-name="Component 3 – 22" transform="translate(1192.401 534.493)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-14" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-14" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_17" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_3" data-name="Component 3 – 3" transform="translate(577.493 543.493)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-15" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-15" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_18" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+    <g id="Component_3_21" data-name="Component 3 – 21" transform="translate(1118.924 549.493)" clip-path="url(#clip-path-5)">
+      <circle id="Ellipse_9-16" data-name="Ellipse 9" cx="16" cy="16" r="16" transform="translate(10.945 0) rotate(20)" fill="#59ebaf"/>
+      <circle id="Ellipse_10-16" data-name="Ellipse 10" cx="12" cy="12" r="12" transform="translate(13.335 5.127) rotate(20)" fill="#04ac67"/>
+      <text id="_19" data-name="$" transform="translate(19.229 9.4) rotate(20)" fill="#f8f2f2" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="15">$</tspan></text>
+    </g>
+  </g>
+</svg>
