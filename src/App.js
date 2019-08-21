@@ -5,7 +5,6 @@ import { Provider } from 'react-redux'
 import './index.css';
 
 
-import Header from './components/Header';
 import Navbar from './components/Navbar';
 import NextMonth from './components/NextMonth'
 import Home from './components/views/home';
