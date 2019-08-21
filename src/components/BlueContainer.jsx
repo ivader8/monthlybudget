@@ -8,7 +8,7 @@ import savings from '.././images/savings.svg'
     render() {
         return (
             <div className = "blue-container">
-                <div class = "container">
+                <div className = "container">
                     <ul>
                         <li>
                             <img src={income} alt="income icon"/>

@@ -55,6 +55,7 @@ header{
 
 h1, .subhead {
   position: relative;
+  margin-top: 1%;
   z-index:3;
 }
 
@@ -111,6 +112,31 @@ h1, .subhead {
 
 .blue-container img {
   width: 14%
+}
+
+.gray-container {
+  background: #f6f6f6;
+  padding: 4em 0 2em;
+  margin-top: -3%;
+}
+
+.gray-container ul li:first-child {
+  margin-bottom: 2em;
+}
+
+.cta {
+  background-color: #00cc80;
+  width: calc( 100% - 1em);
+  display: block;
+  color: white;
+  border-radius: 20px;
+  padding: .5em;
+  text-decoration: none;
+  font-size: 1.5em;
+  margin: 3% auto 7%;
+  position: relative;
+  z-index: 4;
+
 }
 
 .footer-container {
@@ -263,7 +289,7 @@ nav ul li a:hover{
   }
 
   .subhead {
-    margin-bottom: 15%;
+    margin-bottom: 6%;
   }
 
   .blue-container ul {
@@ -323,6 +349,10 @@ nav ul li a:hover{
 
   .scroll {
     width: 30px;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
     animation: move 1s infinite alternate;
 
   }

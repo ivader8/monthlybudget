@@ -52,7 +52,7 @@ class CurrentMonth extends Component {
       var newProducts = products.map(function(product) {
     
         for (var key in product) {
-          if (key == item.name && product.id == item.id) {
+          if (key === item.name && product.id === item.id) {
             product[key] = item.value;
     
           }

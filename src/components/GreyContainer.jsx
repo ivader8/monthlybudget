@@ -6,7 +6,7 @@ export default class GreyContainer extends Component {
             <div className = "grey-container">
                 <div className = "container">
                 
-                <p>This is the grey container</p>
+                <p></p>
 
                 </div>
             </div>
