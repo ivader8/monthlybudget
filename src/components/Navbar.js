@@ -14,7 +14,7 @@ export default class Navbar extends Component {
                             <img src={ham} alt="toggle menu" className="menu" id="menu" />
                         </a>
 
-                        <ul className="show-desktop hide-desktop" id="nav">
+                        <ul className="show-desktop hide-mobile" id="nav">
                             <li id="exit" class="exit-btn hide-desktop">
                                 <img src={exit} alt = "exit menu"></img></li>
                             <li><a href="#">contact</a></li>
