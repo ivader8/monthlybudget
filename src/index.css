@@ -48,7 +48,7 @@ header {
 
 .piggyBank {
     width: 55%;
-    margin: 2em auto 5em 2em;
+    margin: 2em auto 2em 0em;
 }
 
 h1,
@@ -333,7 +333,7 @@ nav ul li a:hover {
 @media only screen and (min-width: 1600px) {
     .piggyBank {
         width: 40%;
-        margin: 5em auto 4em 15%;
+        margin: 0em  10em 5em 15%;
     }
     .container {
         width: 70%;
